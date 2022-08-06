@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pwa-weather-app/static/css/main.f85c56da.css",
-    "main.js": "/pwa-weather-app/static/js/main.2aa22b2d.js",
+    "main.css": "/pwa-weather-app/static/css/main.3b62217f.css",
+    "main.js": "/pwa-weather-app/static/js/main.deda90d4.js",
     "static/media/bg.jpg": "/pwa-weather-app/static/media/bg.7b83f7cda99cf768cbb6.jpg",
     "index.html": "/pwa-weather-app/index.html",
-    "main.f85c56da.css.map": "/pwa-weather-app/static/css/main.f85c56da.css.map",
-    "main.2aa22b2d.js.map": "/pwa-weather-app/static/js/main.2aa22b2d.js.map"
+    "main.3b62217f.css.map": "/pwa-weather-app/static/css/main.3b62217f.css.map",
+    "main.deda90d4.js.map": "/pwa-weather-app/static/js/main.deda90d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85c56da.css",
-    "static/js/main.2aa22b2d.js"
+    "static/css/main.3b62217f.css",
+    "static/js/main.deda90d4.js"
   ]
 }
